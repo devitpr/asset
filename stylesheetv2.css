@@ -1,0 +1,12 @@
+
+#news-kv {padding:0 0 10px 0 !important;}
+#news-kv .c-image__image{ position: absolute; top: 50%; transform: translateY(-50%);  -ms-transform: translateY(-50%); -webkit-transform: translateY(-50%);}
+#news-kv .c-image__container{ position:relative; height:65vh; width:100%; }
+}
+
+
+
+@media screen and (max-width: 767px){
+   #news-kv .c-image__container{ height: inherit !important;}
+}
+
