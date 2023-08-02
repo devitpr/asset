@@ -4,13 +4,9 @@
 #news-kv .c-image__container{ position:relative; height:65vh; width:100%; }
 }
 
-.custom-box-wrapper{display:block; max-width:1000px;}
-ul{padding-left:15px; margin-top:15px;}
-b, strong{font-family: 'Poppins-Bold', sans-serif;}
+
 
 @media screen and (max-width: 767px){
    #news-kv .c-image__container{ height: inherit !important;}
 }
 
-
-/***update***/
