@@ -33,7 +33,7 @@ table td{padding:10px;}
 }
 
 #startup-container .c-documentary.news .c-documentary__item-image__container-wrapper{
-	max-height:200px;
+	max-height:200px !important;
 }
 #startup-container .c-documentary__item-image__container-wrapper{background:none !important;}
 
