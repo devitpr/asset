@@ -22,3 +22,8 @@ table{width:100%;}
    #news-kv .c-image__container{ height: inherit !important;}
 }
 
+#startup-container .c-documentary__filter .custom-select{
+ display:none !important;
+}
+
+#startup-container .c-documentary__item-content-title{text-align:center !important;}
