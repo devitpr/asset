@@ -38,3 +38,4 @@ table td{padding:10px;}
 #startup-container .c-documentary__item-image__container-wrapper{background:none !important;}
 
 #startup-container .c-documentary__item-content-title{text-align:center !important;}
+.c-side-navigation__icon, .c-side-navigation__icon-hover{height:38px !important; width:38px !important;}
