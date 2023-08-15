@@ -57,4 +57,8 @@ table td{padding:10px;}
 .panel-link .icon{ -webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease;-o-transition: all 0.5s ease; -ms-transition: all 0.5s ease; transition: all 0.5s ease;display: block; position: absolute; right: 20px; bottom: 20px;}
 
 #img-link-panel .c-image__container{overflow:hidden; border-radius:10px; max-height:226px;}
+@media(max-width:767px){
+   #img-link-panel .col-md-4{ margin-bottom:25px; }
+   .panel-link{width:100%; margin-top:0;}
+}
 .panel-link .tt{font-family: 'Poppins-Bold', sans-serif;}
