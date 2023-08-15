@@ -50,8 +50,8 @@ table td{padding:10px;}
 }
 
 .panel-link  a:hover{text-decoration:none !important;}
-.theme-hkbu .c-text .panel-link .link-hover span, .theme-cpro .c-text .panel-link .link-hover span{ text-decoration: none;-webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease;-o-transition: all 0.5s ease; -ms-transition: all 0.5s ease; transition: all 0.5s ease; color: black; -webkit-text-fill-color: inherit !important; background: inherit !important; background-clip: inherit !important;}
-.theme-hkbu .c-text .panel-link  a:hover .link-hover span, .theme-cpro .c-text .panel-link .link-hover span{color:#2a65fd;}
+.theme-hkbu .c-text .panel-link .link-hover span, .theme-cpro .c-text .panel-link .link-hover span{ text-decoration:none !important; -webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease;-o-transition: all 0.5s ease; -ms-transition: all 0.5s ease; transition: all 0.5s ease; color: black; -webkit-text-fill-color: inherit !important; background: inherit !important; background-clip: inherit !important;}
+.theme-hkbu .c-text .panel-link .link-hover:hover span, .theme-cpro .c-text .panel-link .link-hover:hover span{color:#2a65fd;}
 .panel-link:hover .icon{right:30px;}
 .panel-link .icon img{display: inline-block; max-width: 35px;}
 .panel-link .icon{ -webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease;-o-transition: all 0.5s ease; -ms-transition: all 0.5s ease; transition: all 0.5s ease;display: block; position: absolute; right: 20px; bottom: 20px;}
