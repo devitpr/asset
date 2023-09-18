@@ -67,3 +67,5 @@ table td{padding:10px;}
 #tech-life-science .c-documentary__item-content-category{display:none !important;}
 
 .space-less{padding:40px 40px 0 40px;}
+
+.c-button__text{    padding: 15px 15px 0; display: inline-block; line-height: 1.4 !important;}
